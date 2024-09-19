@@ -1,0 +1,8 @@
+port: "" # your port
+
+db:
+  username: "" # your db user name
+  password: "" # your db user password
+  host: "" # your db host
+  port: "" # your db port
+  name: "" # your db name
